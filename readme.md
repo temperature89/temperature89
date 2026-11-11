@@ -1,3 +1,5 @@
 [![Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,latex)](https://skillicons.dev)
 
-[![temperature89's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/temperature89?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+![AtCoder Rating](https://atcoder-disp-graph.tra.earth/disp-rate/temperature89?contest-type=algo&graph-type=status)
+
+![AtCoder Rating Graph](https://atcoder-disp-graph.tra.earth/disp-rate/temperature89?contest-type=algo&graph-type=graph)
