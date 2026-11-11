@@ -1,1 +1,1 @@
-[![Skills](https://skillicons.dev/icons?i=python,ts,rust,php,go,laravel,django,fastapi,react,nextjs,astro,docker,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,cpp,html,css,latex)](https://skillicons.dev)
